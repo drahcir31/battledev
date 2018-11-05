@@ -1,0 +1,20 @@
+{
+    "name": "data",
+    "version": "1.0.0",
+    "description": "librairie utilisé : https://github.com/typicode/json-server",
+    "main": "server.js",
+    "dependencies": {
+      "jshint": "2.9.6"
+    },
+    "devDependencies": {
+      "nodemon": "^1.18.4"
+    },
+    "scripts": {
+      "start": "nodemon -e js,txt",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
